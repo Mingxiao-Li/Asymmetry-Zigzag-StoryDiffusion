@@ -3,3 +3,12 @@ The official implementation for the paper [Consistent Story Generation with Asym
 
 ## Story (Flux)
 ![flowchar-img](images/flux_more_vis.png)
+
+## Story (SDXL)
+![flowchar-img](images/sdxl-more-vis.png)
+
+## Comparison (Flux)
+![flowchar-img](images/flux_compar1.png)
+
+## Comparison (SDXL)
+![flowchar-img](images/sdxl_compar.png)
