@@ -81,13 +81,13 @@ $ sh run_flux_img.sh
 </p>
 
 <p align="center">
-  A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat eating his food, in a pet store, playing with a ball, sleeping in a bed.
+  A hyper-realistic digital painting of A cat in a busy alley, on a sled, wearing a bow tie, wearing a small bell.
   </p>
 <p align="center"> 
-  <img src="videos/animals_11_1.gif" width="20%" />
-  <img src="videos/animals_11_2.gif" width="20%" />
-  <img src="videos/animals_11_3.gif" width="20%" />
-  <img src="videos/animals_11_4.gif" width="20%" />
+  <img src="videos/animals_17_1.gif" width="20%" />
+  <img src="videos/animals_17_2.gif" width="20%" />
+  <img src="videos/animals_17_3.gif" width="20%" />
+  <img src="videos/animals_17_4.gif" width="20%" />
 </p>
 
 <p align="center">
