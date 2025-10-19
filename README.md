@@ -71,16 +71,49 @@ $ sh run_flux_img.sh
 ### Video Story (FLUX + Wan2.1 TI2V)
 
 <p align="center">
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="videos/fairy_tales_31_1.gif" width="20%">
+    <figcaption><sub>rising from the ashes in a burst of fire<sub></figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="videos/fairy_tales_31_2.gif" width="20%">
+    <figcaption><sub>appearing in a flash of flame<sub></figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="videos/fairy_tales_31_3.gif" width="20%">
+    <figcaption><sub>flying through a fiery sky<sub></figcaption>
+  </figure>
 
   <figure style="display:inline-block; text-align:center; margin:10px;">
+    <img src="videos/fairy_tales_31_4.gif" width="20%">
+    <figcaption><sub>resting on a burning tree<sub></figcaption>
+  </figure>
+
+  <!-- <img src="videos/fairy_tales_31_1.gif" width="20%" />
+  <img src="videos/fairy_tales_31_2.gif" width="20%" />
+  <img src="videos/fairy_tales_31_3.gif" width="20%" />
+  <img src="videos/fairy_tales_31_4.gif" width="20%" /> -->
+</p>
+
+  <!-- <figure style="display:inline-block; text-align:center; margin:10px;">
     <figcaption>rising from the ashes in a burst of fire</figcaption>
-    <video src="./videos/fairy_tales_31_1mp4.mp4" width="22%" controls></video>
+    <video src="./videos/fairy_tales_31_1.mp4" width="22%" controls></video>
   </figure>
 
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <figcaption>appearing in a flash of flame</figcaption>
-    <video src="video2.mp4" width="22%" controls></video>
+    <video src="./videos/fairy_tales_31_2.mp4" width="22%" controls></video>
   </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <figcaption>flying through a fiery sky</figcaption>
+    <video src="./videos/fairy_tales_31_3.mp4" width="22%" controls></video>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <figcaption>resting on a burning tree</figcaption>
+    <video src="./videos/fairy_tales_31_4.mp4" width="22%" controls></video>
+  </figure> -->
 
 </p>
 
