@@ -72,12 +72,22 @@ $ sh run_flux_img.sh
 
 <p align="center"> 
   <p>
-  A fiery illustration of A majestic phoenix rising from the ashes in a burst of fire, appearing in a flash of flame, flying through a fiery sky, resting on a burning tree
+  A fiery illustration of A majestic phoenix rising from the ashes in a burst of fire, appearing in a flash of flame, flying through a fiery sky, resting on a burning tree.
   </p>
   <img src="videos/fairy_tales_31_1.gif" width="20%" />
   <img src="videos/fairy_tales_31_2.gif" width="20%" />
   <img src="videos/fairy_tales_31_3.gif" width="20%" />
   <img src="videos/fairy_tales_31_4.gif" width="20%" />
+</p>
+
+<p align="center"> 
+  <p>
+  A 3D animation of A cute Labrador puppy with a glossy, chocolate brown coat eating his food, in a pet store, playing with a ball, sleeping in a bed.
+  </p>
+  <img src="videos/animals_11_1.gif" width="20%" />
+  <img src="videos/animals_11_2.gif" width="20%" />
+  <img src="videos/animals_11_3.gif" width="20%" />
+  <img src="videos/animals_11_4.gif" width="20%" />
 </p>
 
 
