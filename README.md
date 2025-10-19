@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
   <a href="#more application">Application</a> •
-  <a href="#visualizations">Visualization</a> 
+  <a href="#visualizations">Visualization</a> •
   <a href="#citation">Citation</a> •
 </p>
 
