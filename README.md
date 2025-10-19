@@ -40,7 +40,7 @@ $ sh run_flux_img.sh
 
 ```
 
-## Applications 
+## Application
 
 * Visual story generation with consistent subjects across multiple images.
  ```bash 
