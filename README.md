@@ -80,7 +80,6 @@ $ sh run_flux_img.sh
   <img src="videos/fairy_tales_31_4.gif" width="20%" />
 </p>
 
-</p>
 
 
 ## Citation
