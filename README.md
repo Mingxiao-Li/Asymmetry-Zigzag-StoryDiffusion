@@ -80,26 +80,6 @@ $ sh run_flux_img.sh
   <img src="videos/fairy_tales_31_4.gif" width="20%" />
 </p>
 
-  <!-- <figure style="display:inline-block; text-align:center; margin:10px;">
-    <figcaption>rising from the ashes in a burst of fire</figcaption>
-    <video src="./videos/fairy_tales_31_1.mp4" width="22%" controls></video>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <figcaption>appearing in a flash of flame</figcaption>
-    <video src="./videos/fairy_tales_31_2.mp4" width="22%" controls></video>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <figcaption>flying through a fiery sky</figcaption>
-    <video src="./videos/fairy_tales_31_3.mp4" width="22%" controls></video>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <figcaption>resting on a burning tree</figcaption>
-    <video src="./videos/fairy_tales_31_4.mp4" width="22%" controls></video>
-  </figure> -->
-
 </p>
 
 
@@ -108,10 +88,11 @@ If you find our work usefull, feel free to give us a star ⭐ or cite us using:
 ```
 @inproceedings{
 liu2025onepromptonestory,
-title={One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt},
-author={Tao Liu and Kai Wang and Senmao Li and Joost van de Weijer and Fhad Khan and Shiqi Yang and Yaxing Wang and Jian Yang and Mingming Cheng},
-booktitle={The Thirteenth International Conference on Learning Representations},
+title={Consistent Story Generation: Unlocking the Potential
+of Zigzag Sampling},
+author={Mingxiao Li, Mang Ning, Marie-Francine Moens},
+booktitle={The Thirty-Ninth Annual Conference on Neural Information Processing Systems},
 year={2025},
-url={https://openreview.net/forum?id=cD1kl2QKv1}
+url={https://arxiv.org/abs/2506.09612}
 }
 ```
