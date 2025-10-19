@@ -14,6 +14,7 @@
 <!-- <a href="https://byliutao.github.io/1Prompt1Story.github.io/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Project_page-More_visualizations-green" alt="project page" style="height: 20px; vertical-align: middle;">
 </a>&nbsp; -->
+</div>
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
   <a href="#more application">Application</a> •
