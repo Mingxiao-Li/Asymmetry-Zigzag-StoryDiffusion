@@ -101,6 +101,17 @@ $ sh run_flux_img.sh
 </p>
 
 
+<p align="center">
+  A hyper-realistic digital painting of A woman with a slender figure, straight red hair, and freckles across the nose at a seaside pier, attending a fair, baking cookies, in a rose garden.
+</p>
+<p align="center"> 
+  <img src="videos/humans_13_1.gif" width="20%" />
+  <img src="videos/humans_13_2.gif" width="20%" />
+  <img src="videos/humans_13_3.gif" width="20%" />
+  <img src="videos/humans_13_4.gif" width="20%" />
+</p>
+
+
 
 ## Citation
 If you find our work usefull, feel free to give us a star ⭐ or cite us using:
