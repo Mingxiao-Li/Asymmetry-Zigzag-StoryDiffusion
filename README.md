@@ -70,29 +70,14 @@ $ sh run_flux_img.sh
 
 ### Video Story (FLUX + Wan2.1 TI2V)
 
-<p align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="videos/fairy_tales_31_1.gif" width="20%">
-    <figcaption><sub>rising from the ashes in a burst of fire<sub></figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="videos/fairy_tales_31_2.gif" width="20%">
-    <figcaption><sub>appearing in a flash of flame<sub></figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="videos/fairy_tales_31_3.gif" width="20%">
-    <figcaption><sub>flying through a fiery sky<sub></figcaption>
-  </figure>
-
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="videos/fairy_tales_31_4.gif" width="20%">
-    <figcaption><sub>resting on a burning tree<sub></figcaption>
-  </figure>
-
-  <!-- <img src="videos/fairy_tales_31_1.gif" width="20%" />
+<p align="center"> 
+  <p>
+  A fiery illustration of A majestic phoenix rising from the ashes in a burst of fire, appearing in a flash of flame, flying through a fiery sky, resting on a burning tree
+  </p>
+  <img src="videos/fairy_tales_31_1.gif" width="20%" />
   <img src="videos/fairy_tales_31_2.gif" width="20%" />
   <img src="videos/fairy_tales_31_3.gif" width="20%" />
-  <img src="videos/fairy_tales_31_4.gif" width="20%" /> -->
+  <img src="videos/fairy_tales_31_4.gif" width="20%" />
 </p>
 
   <!-- <figure style="display:inline-block; text-align:center; margin:10px;">
