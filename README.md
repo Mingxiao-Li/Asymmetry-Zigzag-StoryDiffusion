@@ -91,9 +91,9 @@ $ sh run_flux_img.sh
 </p>
 
 <p align="center"> 
-  <p>
+  <!-- <p>
   A watercolor illustration of A male child with a round face, short ginger hair, and curious, wide eyes building a fort, in a backyard,  in a treehouse, playing with a puppy.
-  </p>
+  </p> -->
   <img src="videos/humans_17_1.gif" width="20%" />
   <img src="videos/humans_17_2.gif" width="20%" />
   <img src="videos/humans_17_3.gif" width="20%" />
