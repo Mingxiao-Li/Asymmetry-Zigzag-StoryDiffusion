@@ -1,5 +1,5 @@
 <h1 align="center">
-   🎉  NeurIPS 2025 🎉  Consistent Story Generation: Unlocking the Potential of Zigzag Sampling
+   🎉🎉  NeurIPS 2025:  Consistent Story Generation: Unlocking the Potential of Zigzag Sampling
   <br>
 </h1>
 
