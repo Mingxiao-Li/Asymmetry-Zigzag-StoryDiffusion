@@ -117,7 +117,7 @@ $ sh run_flux_img.sh
 If you find our work usefull, feel free to give us a star ⭐ or cite us using:
 ```
 @inproceedings{
-mingxiao2025consistent,
+li2025consistent,
 title={Consistent Story Generation: Unlocking the Potential
 of Zigzag Sampling},
 author={Mingxiao Li, Mang Ning, Marie-Francine Moens},
